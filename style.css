@@ -16,7 +16,7 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  background: url(./img-6.jpg) no-repeat;
+  background: url(./img-4.jpg) no-repeat;
   background-size: cover;
   background-position: bottom;
 }
